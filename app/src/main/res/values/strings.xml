@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraGMH</string>
+    <string name="text1">Menu Principal</string>
+
+    <string name="suma">1.-Suma</string>
+    <string name="rest">2.-Resta</string>
+    <string name="multi">3.-Multipilicacion</string>
+
+    <string name="divi">4.-Division</string>
+</resources>
